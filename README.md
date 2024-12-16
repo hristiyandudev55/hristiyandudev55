@@ -4,12 +4,11 @@
 I'm a software developer transitioning from the mining industry to tech, driven by an insatiable curiosity and passion for growth. My goal is to continuously learn and improve every day!  
 Currently, I’m building **DzhaniFleet**, a notification management software to help my family business manage document expirations for over 50+ vehicles and machinery (trucks, excavators, snow plows, and more). 🚛⛏️❄️
 
-Apart from that, I'm exploring **DevOps**, with a strong interest in **Linux**, **Containerization**, **Automation**, and **Infrastructure Management**, all of which are essential for optimizing workflows and improving system reliability. 🐧⚙️
+I'm just starting my journey into **DevOps**, focusing on the basics of CI/CD pipelines, cloud platforms(Azure), monitoring and logging, and configuration management to build a solid foundation. 🐧⚙️
 
 ---
 
 ## 🛠️ Tech Stack:
-Here are the tools and technologies I work with:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)  
 
 ---
