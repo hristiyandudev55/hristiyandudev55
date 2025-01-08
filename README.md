@@ -15,7 +15,7 @@ I'm just starting my journey into **DevOps**, focusing on the basics of CI/CD pi
 
 ## 🌱 What I'm Working On:
 - **DzhaniFleet**: A fleet management tool for tracking vehicle-related deadlines like technical inspections, vignettes, insurance renewals, and more.  
-- **Homelab Setup**: Configuring a homelab with Arch Linux to practice system administration skills, with a focus on automating processes and improving infrastructure management—key components of DevOps practices.
+- **Homelab Setup**: Configuring a homelab with Fedora to practice system administration skills, with a focus on automating processes and improving infrastructure management—key components of DevOps practices.
 ## 🚀 Future Projects I’m Excited About:
 - **OBD2 Diagnostic Tool**: Developing a mobile and web application for real-time vehicle monitoring using an OBD2 Bluetooth device. This app will collect and display essential vehicle data like fuel consumption, mileage, engine diagnostics, and more. The goal of this project is to provide live data insights and enhance fleet management.
   
