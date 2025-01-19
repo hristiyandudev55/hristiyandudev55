@@ -9,7 +9,9 @@ I'm just starting my journey into **DevOps**, focusing on the basics of CI/CD pi
 ---
 
 ## 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat)
+
 
 ---
 
